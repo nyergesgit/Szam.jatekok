@@ -1,0 +1,27 @@
+html {
+    background-color: #F5DEB3;
+    color: #8B4513;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+}
+.c64 {
+    height: 200px;
+}
+.emberek {
+    height: 200px;
+}
+.pong {
+    height: 200px;
+}
+.gameboy {
+    height: 200px;
+}
+.kepek {
+    margin-left: 18%;
+    padding-top: 10px;
+}
+.kep2 {
+    margin-left: 44%;
+}
